@@ -3,11 +3,6 @@
  |	A Simple global header to check the development platform and load the 	|
  |	proper OpenGL, glu, and glut headers.									|
  |	Supports macOS, Windows, Linux,											|
- |																			|
- |	Author:		Jean-Yves Hervé, University of Rhode Island					|
- |								 Dept. of Com[puter Science and Statistics	|
- |								 3D Group for Interactive Visualization		|
- |	Fall 2013, modified Fall 2022											|
  +-------------------------------------------------------------------------*/
 #ifndef GL_PLATFORM_H
 #define GL_PLATFORM_H
