@@ -2,7 +2,6 @@
 //  gl_frontEnd.h
 //  GL threads
 //
-//  Created by Jean-Yves Hervé on 2023-04-20
 //
 
 #ifndef GL_FRONT_END_H
