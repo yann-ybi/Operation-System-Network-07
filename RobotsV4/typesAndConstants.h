@@ -2,8 +2,6 @@
 //  typesAndConstants.h
 //  GL threads
 //
-//  Created by Jean-Yves Hervé on 2021-12-07
-//
 
 #ifndef TYPES_AND_CONSTANTS_H
 #define TYPES_AND_CONSTANTS_H
