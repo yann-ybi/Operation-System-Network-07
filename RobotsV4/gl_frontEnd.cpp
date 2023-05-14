@@ -9,10 +9,7 @@
  |	you want to change some of the things displayed, add menus, etc.		|
  |	Only mess with this after everything else works and making a backup		|
  |	copy of your project.  OpenGL & glut are tricky and it's really easy	|
- |	to break everything with a single line of code.							|
- |																			|
- |	Created by Jean-Yves Hervé on 2018-12-05 (C version)					|
- |	Revised 2023-04-27														|
+ |	to break everything with a single line of code.							|													|
  +-------------------------------------------------------------------------*/
 
 #include <vector>
